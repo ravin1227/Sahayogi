@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "816676457109",
+    "project_id": "sahayogi-5a36e",
+    "storage_bucket": "sahayogi-5a36e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816676457109:android:d5fcc719955b255402e99c",
+        "android_client_info": {
+          "package_name": "com.team.sahayogi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816676457109-req482q8vortn88r1nqss18fvqtogruj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlDa7pdUu0UpoY1J4zbfzVTe4jpY-nUZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816676457109-req482q8vortn88r1nqss18fvqtogruj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

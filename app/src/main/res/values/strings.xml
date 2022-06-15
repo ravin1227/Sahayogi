@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Sahayogi</string>
+
+    <string name="pref_file">com.team.preference_file</string>
+    <string name="pref_login_status">com.team.preference_login_status</string>
+    <string name="pref_user_name">com.team.preference_user_name</string>
+
+    <string-array name="Gender">
+        <item>Select Gender</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <string-array name="Category">
+        <item>Select Category</item>
+        <item>Electrician</item>
+        <item>Plumber</item>
+        <item>Carpenter</item>
+        <item>Tutor</item>
+        <item>Maid</item>
+        <item>Cook</item>
+        <item>Driver</item>
+        <item>Babysitter-Nanny</item>
+    </string-array>
+
+</resources>
